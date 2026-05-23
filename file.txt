@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 main first change.
 
 main second change.
+=======
+main first change
+
+data changed.
+>>>>>>> test
